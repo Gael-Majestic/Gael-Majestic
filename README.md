@@ -23,6 +23,7 @@ My MTech study looks at synthetic traffic with a formal differential privacy gua
 - Differential privacy
 - Network security
 - Cloud infrastructure, infrastructure as code, containerization technology, Linux
+- Distributed systems and Python
 - Evaluating machine-learning models
 
 #### Contact
