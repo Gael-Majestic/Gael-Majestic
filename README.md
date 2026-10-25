@@ -11,7 +11,7 @@ My MTech study looks at synthetic traffic with a formal differential privacy gua
 #### Selected work
 
 - Kapia, K.G., Kabaso, B. & Hendricks, W. 2026. A systematic review of privacy-preserving synthetic network traffic generation for machine learning-based intrusion detection systems. In *Recent Advances in Information Systems (ICRAIS 2025)*, Progress in IS. Springer, 755–767. [doi:10.1007/978-3-032-14099-9_50](https://doi.org/10.1007/978-3-032-14099-9_50)
-- [SIM_PE_NS-3](https://github.com/Gael-Majestic/SIM_PE_NS-3): code, experiment plans and design notes for the study. The link works from the day the repository is made public. The code was developed with AI assistance (Claude Code); the repository's `AI_USE.md` sets out what the assistant did, what I did, and how the output was checked.
+- [SIM_PE_NS-3](https://github.com/Gael-Majestic/SIM_PE_NS-3): code, experiment plans and design notes for the study. The link works from the day the repository is made public.
 
 #### Projects
 
@@ -20,10 +20,10 @@ My MTech study looks at synthetic traffic with a formal differential privacy gua
 
 #### Interests
 
-- Differential privacy and synthetic data
-- Network security and intrusion detection
-- Network simulation with NS-3
-- Evaluating machine-learning models trained on synthetic data
+- Differential privacy
+- Network security
+- Cloud infrastructure, infrastructure as code, containerization technology, Linux
+- Evaluating machine-learning models
 
 #### Contact
 
