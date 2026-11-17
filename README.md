@@ -20,13 +20,13 @@ My MTech study looks at synthetic traffic with a formal differential privacy gua
 
 #### Interests
 
-- Differential privacy
-- Network security
-- Cloud infrastructure, infrastructure as code, containerization technology
-- Windows server, Active directory
-- Distributed systems
+- Cloud-native architecture
+- Network Engineering
+- Infrastructure as code
+- Containerization technology
+- AI Software Development Lifecycle (AI-DLC)
 - Programming basics (HTML, CSS, Python)
-- Evaluating machine-learning models
+- Distributed systems
 
 #### Contact
 
